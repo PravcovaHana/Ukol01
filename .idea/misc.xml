@@ -70,7 +70,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="temurin-21 (2)" project-jdk-type="JavaSDK" />
   <component name="ProjectUserFactors">
     <factor id="completionFinishedType">
       <dailyData date="12-07-2023">

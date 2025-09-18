@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+h1, h2 {
+    text-align: center;
+    color: darkgreen;
+}
+
+p {
+    padding: 10px;
+    text-align: left;
+    font-size: 12pt;
+}
+
+.titulek {
+    pading-left: 20 px;
+    font-weight: bold;
+}
